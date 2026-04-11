@@ -1,0 +1,54 @@
+# Visual Studio / .NET
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Visual Studio cache/options
+*.VC.db
+*.VC.VC.opendb
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+*.rsuser
+*.suo
+*.cache
+*.ilk
+*.log
+*.tlog
+
+# Publish output
+publish/
+
+# other
+*.dbmdl
+*.bak
+*.backup
+*.tmp
+*.log
+*.vspscc
+*.vssscc
